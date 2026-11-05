@@ -41,8 +41,7 @@ Validation accuracy of the models I compared (trained on the SMOTE-balanced trai
 
 The neural network (MLP) was chosen as the best model on F1 and accuracy. **Test set:** accuracy 0.90, weighted F1 0.90, macro F1 0.87.
 
-![Confusion matrix](images/confusion-matrix.png)
-
+![Confusion matrix](confusion-matrix.png)
 ## Limitations
 
 - The records are group-level statistics, so this shows the method, not a tool to diagnose anyone.
