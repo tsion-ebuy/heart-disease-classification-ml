@@ -1,6 +1,6 @@
 # Heart Disease & Stroke: Six-Class Classification
 
-Machine learning project from my MSc in Artificial Intelligence and Computer Science at the University of Calabria, following the CRISP-DM method. It was a group project of four students. The goal is to predict which cardiovascular topic a record belongs to (six classes) from its indicator values and demographic breakdown.
+Machine learning project from my MSc in Artificial Intelligence and Computer Science at the University of Calabria, following the CRISP-DM method.The goal is to predict which cardiovascular topic a record belongs to (six classes) from its indicator values and demographic breakdown.
 
 **Best result:** a neural network (MLP) reached **0.90 accuracy** and **0.90 weighted F1** on a held-out test set.
 
